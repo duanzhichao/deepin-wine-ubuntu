@@ -3,6 +3,7 @@
 ## 重点
 > 本仓库fork自wszqkzqk/deepin-wine-ubuntu项目,为了解决Ubuntu16.04的安装问题，本仓库release有微信等deepin官方不再提供下载的包，如果觉得下载速度较慢，请到下载
 
+## 一、项目介绍
 > Deepin-wine 环境的 Ubuntu/Debian 移植版 
 
 > 使用deepin原版二进制文件，解决依赖问题
